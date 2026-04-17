@@ -4,8 +4,12 @@ Aplicación web full-stack para la gestión de pedidos en una crepería. Permite
 
 ---
 
-## Presentación
-https://canva.link/n5l4d0zm6gplxg8
+## ✨🎨 Presentación del Proyecto
+
+Sumérgete en la idea, el diseño y la visión detrás de este proyecto:
+
+🚀 [Explorar presentación en Canva](https://canva.link/n5l4d0zm6gplxg8)
+
 ---
 ## 🎯 Objetivo del proyecto
 

@@ -4,6 +4,9 @@ Aplicación web full-stack para la gestión de pedidos en una crepería. Permite
 
 ---
 
+## Presentación
+https://canva.link/n5l4d0zm6gplxg8
+---
 ## 🎯 Objetivo del proyecto
 
 El objetivo de esta aplicación es resolver la necesidad de digitalizar el proceso de pedidos en una crepería, permitiendo:
